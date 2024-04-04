@@ -1,0 +1,10 @@
+Backend:
+- Paginação
+- TypeScript
+- LATER: Images and comments system
+- Save catched errors in a log file instead of sending as a response
+
+Frontend:
+- Solve cors
+- React
+- Redux
