@@ -1,5 +1,7 @@
 # fullstack-js
 
+(paused)
+
 Estudo do uso de tecnologias JavaScript para criação de uma aplicação Web Full-Stack.
 
 <hr>
