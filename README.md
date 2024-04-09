@@ -2,11 +2,15 @@
 
 (paused)
 
-Estudo do uso de tecnologias JavaScript para criação de uma aplicação Web Full-Stack.
+Fullstack web application with JavaScript technologies.
+
+The idea is to develop two backends with Express.js integrated with a MySQL and a MongoDB database.
+
+Then develop the frontend with React and use some state management library more complete than Context, like Redux.
 
 <hr>
 
-Technologies used
+Technologies used so far
 - Backend:
   - Node.js
   - Express
@@ -17,7 +21,3 @@ Technologies used
   - dotenv
   - Express-validator
   - jsonwebtoken
-
-- Frontend:
-  - React.js
-  - Redux
