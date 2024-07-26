@@ -2,6 +2,8 @@
 
 (paused)
 
+(Gaming based social media)
+
 Fullstack web application with JavaScript technologies.
 
 The idea is to develop two backends with Express.js integrated with a MySQL and a MongoDB database, while also using an ORM. Currently only know Sequelize.
